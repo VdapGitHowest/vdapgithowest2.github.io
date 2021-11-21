@@ -1,5 +1,5 @@
-let mountains={
-"Europa":[
+{
+[
     {
         name: "Tourmalet",
         country: "Frankrijk",
@@ -18,18 +18,16 @@ let mountains={
                 height: 4800,
                 visited: true,
                 warning:"danger" 
-            }],
+            },
             
-            "Buiten Europa":[
-
-            {
+                     {
                 name: "K2",
                 country: "Pakistan",
                 height: 8600,
                 visited: true,
                 warning:"danger"
-                }
-            ]
-            
+                }                     
 
-        }
+        ]    }
+
+
