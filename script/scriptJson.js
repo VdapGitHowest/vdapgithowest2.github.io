@@ -1,7 +1,5 @@
-"use strict";
-
+"use strict"
 let divFeedback;
-let slcLocatie;
 
 window.addEventListener('load',initialise);
 
