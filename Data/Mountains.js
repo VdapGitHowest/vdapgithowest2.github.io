@@ -1,33 +1,25 @@
 {
-[
-    {
-        name: "Tourmalet",
-        country: "Frankrijk",
-        height: 2115,
-        visited: false
+    BST1: [
+        {
+            subject: "JavaScript",
+            module: "WFB",
+            day: "maandag",
+            room: "K1.012"
         },
         {
-            name: "Matterhorn",
-            country: "zwitserland",
-            height: 3500,
-            visited: true
-            },
-            {
-                name: "Mont Blanc",
-                country: "Frankrijk/Italië",
-                height: 4800,
-                visited: true,
-                warning:"danger" 
-            },
-            
-                     {
-                name: "K2",
-                country: "Pakistan",
-                height: 8600,
-                visited: true,
-                warning:"danger"
-                }                     
-
-        ]    }
-
+            subject: "Web Backend",
+            module: "WBA",
+            day: "Dinsdag",
+            room: "U.002"
+         }
+    ],
+    {
+    BST5: [{
+        subject: "Datacommunicatie Intro",
+        module: "DCI",
+        day: "Woensdag",
+        room: "B208" 
+    }]
+}
+}
 

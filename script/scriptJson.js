@@ -28,7 +28,7 @@ function loadData(){
   })
   .then(function (data) {
   console.log(data);
-  divFeedback.textContent = data.value.name;
+  divFeedback.textContent = data.value.subject;
   })
   .catch(error => console.log(error));
  }
