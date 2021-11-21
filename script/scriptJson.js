@@ -35,7 +35,7 @@ function loadData(){
 
 function bindElements()
 {
-     slcLocatie= document.getElementById("slcRegion");
+    //  slcLocatie= document.getElementById("slcRegion");
      divFeedback=document.getElementById("feedback-zone");
 
 }
